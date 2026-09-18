@@ -1,5 +1,6 @@
 # promt
 [rol]
+
 le especificamos de que manera queremos que actue para que nos lo expliquen de una determinada forma 
 [contexto]
 darle informacion de lo que estamos haciendo para mayor calidad al resultado
